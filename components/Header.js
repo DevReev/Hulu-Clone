@@ -22,6 +22,7 @@ export default function Header() {
                 <HeaderItem title='ACCOUNT' Icon={UserIcon} />
             </div>
             <Image src='https://links.papareact.com/ua6'
+            alt='logo'
             className='object-contain'
             height={200}
             width={200}/>
